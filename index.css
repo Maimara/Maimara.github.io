@@ -1,0 +1,46 @@
+* { 
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+    background-color: lightgoldenrodyellow;
+}
+
+/**Diseño parte superior: cabeza*/
+#bloqueCabeza {
+    max-width: auto;
+}
+
+#formatoAcercade {
+    text-align: justify;
+}
+
+/**Diseño parte principal: Navegación y contenido*/
+#bloqueCuerpo {
+    max-width: auto;
+}
+
+#barraNavegacion {
+    margin-top: 16px;
+}
+
+#cuerpoTarjeta {
+    text-align: justify;
+}
+
+.ocultarContenido {
+    display: none;
+}
+
+.mostrarContenido {
+    display: block;
+}
+
+
+/**Diseño aplicable a la parte principal y al pie*/
+.datosPersonales {
+    text-align: center;
+}
+
+/**Diseño parte inferior: pie*/
+#bloquePie {
+    max-width: auto;
+}
